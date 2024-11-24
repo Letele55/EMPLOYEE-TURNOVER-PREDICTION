@@ -14,8 +14,7 @@ finally the data modeling.
 
 ## Motivation
 
-HR-turnover data was used to assist me to predict the employees that are likely to leave the company
-It looks at the factors that can push people to leave, why there is a higher turnover with younger employees, and finally the departments that seem to have a high turnover rate.
+HR-turnover data was used to assist me to predict the employees that are likely to leave the company.It looks at the factors that can push people to leave, why there is a higher turnover with younger employees, and finally the departments that seem to have a high turnover rate.
 All the questions can assist HR to mediate on time to the decrease the turnover rate, have strategies to increase customers satisfaction. 
 
 ## Results 
